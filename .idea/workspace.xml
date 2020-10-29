@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ad5e90e-a383-4057-87d4-13ae800338ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="fb7763f6-fc0a-41f8-9688-d73908903efb" />
+  <component name="ProjectId" id="1jAKZGeM18tnGY0LRroW8V6EfKO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dags" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dags" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ad5e90e-a383-4057-87d4-13ae800338ea" name="Default Changelist" comment="" />
+      <created>1603241511062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603241511062</updated>
+      <workItem from="1603241512592" duration="6000" />
+      <workItem from="1603241528987" duration="95000" />
+      <workItem from="1603241635857" duration="654000" />
+      <workItem from="1603242309053" duration="9011000" />
+      <workItem from="1603264530965" duration="3902000" />
+      <workItem from="1603269107707" duration="11000" />
+      <workItem from="1603269129002" duration="6000" />
+      <workItem from="1603291586412" duration="6544000" />
+      <workItem from="1603302995293" duration="7937000" />
+      <workItem from="1603744779166" duration="413000" />
+      <workItem from="1603777038133" duration="4502000" />
+      <workItem from="1603783036575" duration="2826000" />
+      <workItem from="1603786253219" duration="3718000" />
+      <workItem from="1603790316805" duration="4000" />
+      <workItem from="1603791122879" duration="1401000" />
+      <workItem from="1603792608415" duration="751000" />
+      <workItem from="1603814137311" duration="1215000" />
+      <workItem from="1603815778732" duration="707000" />
+      <workItem from="1603820427497" duration="1616000" />
+      <workItem from="1603822086828" duration="7044000" />
+      <workItem from="1603830848748" duration="212000" />
+      <workItem from="1603831721715" duration="183000" />
+      <workItem from="1603934581585" duration="3045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603826091118">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1603826091118" />
+    <state x="339" y="235" width="761" height="665" key="EditFileWatcherDialog" timestamp="1603306579943">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="339" y="235" width="761" height="665" key="EditFileWatcherDialog/0.23.1440.877@0.23.1440.877" timestamp="1603306579943" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1603306660918">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1603306660918" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1603242497402">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1603242497402" />
+  </component>
+</project>
