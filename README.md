@@ -1,15 +1,15 @@
-# Tempus Data Engineer Challenge
-For this challenge,
- you will develop a simple
+# Data Engineer Pipeline in Airflow
+In this challenge,
+ we will develop a simple
  [Apache Airflow](https://airflow.apache.org) data pipeline.
 
-## Challenge Summary
-Our data pipeline must fetch data from [News API](https://newsapi.org),
- transform the data into a tabular structure,
- and store the transformed data on [Amazon S3](https://aws.amazon.com/s3/).
+## Summary
+Our data pipeline fetches data from [News API](https://newsapi.org),
+ transforms the data into a tabular structure,
+ and stores the transformed data on [Amazon S3](https://aws.amazon.com/s3/).
 
 ## Quickstart
-1. We recommend starting with a fresh virtualenv using Python 3.6 on a *nix system.
+1. I recommend starting with a fresh virtualenv using Python 3.6 on a *nix system.
     * Our docker versions are docker 17.12.0-ce and docker-compose 1.18.0.
 2. Run `make init` to download project dependencies.
 3. Run `make test` to make sure basic smoke tests are passing.
@@ -20,37 +20,13 @@ Our data pipeline must fetch data from [News API](https://newsapi.org),
 
 ## Requirements
 - [ ] Use Airflow to construct a new data pipeline (DAG) named 'tempus_challenge_dag'.
-- [ ] Data pipeline must be scheduled to run once a day.
+- [ ] Data pipeline is scheduled to run once a day.
 - [ ] Data pipeline will:
   - [ ] Retrieve all English news sources.
   - [ ] For each news source, retrieve the top headlines.
     - [ ] Top headlines must be flattened into a CSV file. CSV Filename: `<pipeline_execution_date>_top_headlines.csv`
     - [ ] Result CSV must be uploaded to the following s3 location `<s3_bucket>/<source_name>`
-- [ ] The solution must contain at least one test for your headline transformation.
-- [ ] The solution must be start-able via `make run`.
-- [ ] The solution must be pep-8 compliant.
-- [ ] Bonus: Build a separate pipeline that uses the following keywords instead of English news sources: Tempus Labs, Eric Lefkofsky, Cancer, Immunotherapy
-- [ ] Bonus: Write an integration test for any of the external services your solution connects to.
-
-
-## Rules of engagement
-* We suggest that you establish a four hour timebox to complete the challenge.
-* The solution must perform a Python transformation of the data;
- feel free to add any open-source libraries you wish and add additional output files.
-* Please document changes required to make the solution resilient to
- failure by taking the following actions:
-  * add developer-friendly requirements to functions
-  * add comments in the main function that list failures that the solution should
-  be designed to handle
-* Please run `make clean` and deliver your Python code via repo or zip ahead of the meeting.
-
-## Grading
-We will grade your solution with the following guidelines.
- This list is ordered with highest-weighted factors at the top:
-1. **Functional correctness**: The solution meets all functional requirements,
- including bonuses.
-2. **Code composition and style**: Code follows appropriate coding standards and pep-8 guidelines.
-3. **Communication**: The project includes a README and the code is well-commented.
+- [ ] Built a separate pipeline that uses the following keywords instead of English news sources: Tempus Labs, Eric Lefkofsky, Cancer, Immunotherapy
 
 
 ## [Apache Airflow](https://airflow.apache.org)
