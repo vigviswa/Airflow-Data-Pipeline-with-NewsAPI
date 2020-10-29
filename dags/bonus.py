@@ -10,10 +10,10 @@ import boto3
 
 """Enter the API Key and AWS Credentials"""
 
-API_KEY = "2b7b6796a4804a68a946e514fd71686f"
-ACCESS_KEY = "AKIARMJGF6RK5UUML3FP"
-SECRET_ACCESS_KEY = "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"
-BUCKET_NAME = "bonustempuschallenge"
+API_KEY = ""
+ACCESS_KEY = ""
+SECRET_ACCESS_KEY = ""
+BUCKET_NAME = ""
 
 
 """For the Free API, It can only fetch requests for the past month"""
