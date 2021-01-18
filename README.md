@@ -26,7 +26,7 @@ Our data pipeline fetches data from [News API](https://newsapi.org),
   - [ ] For each news source, retrieve the top headlines.
     - [ ] Top headlines must be flattened into a CSV file. CSV Filename: `<pipeline_execution_date>_top_headlines.csv`
     - [ ] Result CSV must be uploaded to the following s3 location `<s3_bucket>/<source_name>`
-- [ ] Built a separate pipeline that uses the following keywords instead of English news sources: Tempus Labs, Eric Lefkofsky, Cancer, Immunotherapy
+- [ ] Built a separate pipeline that uses the following keywords instead of English news sources: Eric Lefkofsky, Cancer, Immunotherapy
 
 
 ## [Apache Airflow](https://airflow.apache.org)
